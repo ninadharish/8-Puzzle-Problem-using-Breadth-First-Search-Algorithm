@@ -1,8 +1,8 @@
-# 8-Puzzle Problem using Depth First Search Algorithm
+# 8-Puzzle Problem using Breadth First Search Algorithm
 
 ## Description
 
-This project attempts to solve the 8-puzzle problem using the Depth First Search Algorithm.
+This project attempts to solve the 8-puzzle problem using the Breadth First Search Algorithm.
 
 
 ## Approach
@@ -39,12 +39,12 @@ This project attempts to solve the 8-puzzle problem using the Depth First Search
 
 * Clone the repository into any folder of your choice.
 ```
-git clone https://github.com/ninadharish/8-Puzzle-Problem-using-Depth-First-Search-Algorithm.git
+git clone https://github.com/ninadharish/8-Puzzle-Problem-using-Breadth-First-Search-Algorithm.git
 ```
 
 * Open the repository and navigate to the `src` folder.
 ```
-cd 8-Puzzle-Problem-using-Depth-First-Search-Algorithm/src
+cd 8-Puzzle-Problem-using-Breadth-First-Search-Algorithm/src
 ```
 
 * Run the program.
